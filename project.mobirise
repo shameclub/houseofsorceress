@@ -915,7 +915,7 @@
             "token": "212521398.727bfe1.3f7b07cba9984d2aa86c719a546da4c5",
             "showTitle": true,
             "layoutGridRadio": true,
-            "imagesPerRowGrid": 4,
+            "imagesPerRowGrid": "3",
             "rows": 2,
             "showMoreButton": true,
             "layoutSliderRadio": false,
