@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "House of Sorceress",
-    "currentPage": "index.html",
+    "currentPage": "houseofsorceress.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,11 +47,11 @@
     "versionPublish": "4.8.1"
   },
   "pages": {
-    "index.html": {
+    "houseofsorceress.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "House of Sorceress | Vogue em Florianópolis",
+        "meta_descr": "A House of Sorceress é a primeira Kiki House de Florianópolis. Oferecemos aulas gratuitas para a comunidade e participamos dos mais variados eventos de dança.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
