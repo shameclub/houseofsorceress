@@ -1755,8 +1755,8 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-r6TmPENnEC {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/-mg-9560-1700x1133.jpg");
 }
 @media (min-width: 992px) {
@@ -1991,10 +1991,13 @@ body {
 .cid-r6TJp6CnMX {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #270133;
 }
 .cid-r6TJp6CnMX .mbr-section-subtitle {
-  color: #767676;
+  color: #cccccc;
+}
+.cid-r6TJp6CnMX B {
+  color: #ffffff;
 }
 .cid-r6TEXmVC38 .google-map {
   height: 25rem;
