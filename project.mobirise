@@ -43,7 +43,7 @@
         "url": "https://fonts.googleapis.com/css?family=Gothic+A1:100,200,300,400,500,600,700,800,900"
       }
     ],
-    "uniqCompNum": 38,
+    "uniqCompNum": 39,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -519,7 +519,7 @@
               "color": "#767676"
             },
             ".mbr-text P": {
-              "color": "#75339f"
+              "color": "#270133"
             }
           },
           "_name": "content3",
