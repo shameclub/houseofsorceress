@@ -44,7 +44,7 @@
       }
     ],
     "uniqCompNum": 39,
-    "versionPublish": "4.8.1",
+    "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -853,7 +853,7 @@
         },
         {
           "_params": {
-            "token": "",
+            "token": "8379914013.727bfe1.26c304dd2d704fd08d39a99d886492e0",
             "showTitle": true,
             "layoutGridRadio": true,
             "imagesPerRowGrid": "3",
